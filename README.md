@@ -2,6 +2,8 @@
 
 AI-powered Chrome extension to help you answer Google Forms and Coursera quizzes with ease!
 
+🌐 **Live Demo:** [https://vidyasagar-dadilwar.github.io/Google-Forms-Helper/](https://vidyasagar-dadilwar.github.io/Google-Forms-Helper/)
+
 ---
 
 ## 🚀 Overview
